@@ -137,6 +137,7 @@ tidy_df |>
   facet_grid(~arm) 
 ```
 
+Over 8 weeks, participants in the experimental arm had an increasing trend in terms of outcome, while the control arm did not show such a trend.
 
 ### Problem 3
 
